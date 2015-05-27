@@ -3,7 +3,7 @@ An URI utility plugin for jQuery.
 
 ## Installation
 
-Copy the [dist](dist) files in your preferred location. See [demos](demos) for more info.
+Copy the [dist](dist) files in your preferred location.
 
 ## Examples
 
