@@ -1,5 +1,9 @@
-# jquery.uri
+# jQuery.spUri
 An URI utility plugin for jQuery.
+
+## Installation
+
+Copy the [dist](dist) files in your preferred location. See [demos](demos) for more info.
 
 ## Examples
 
